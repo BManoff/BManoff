@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## My name is Brian Manoff
+
+# I'm currently studying in the ** Data Science ** curriculum at Codeup! 🏫
+
+🧠 I'm currently interested in learning more about:
+- Python 
+- SQL
+- Machine Learning
+- AI
+
 <!--
 **BManoff/BManoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
