@@ -1,10 +1,8 @@
-### Hi there 👋
+# Hi there, My name is Brian Manoff 👋
 
-## My name is Brian Manoff
+## I'm currently studying in the *Data Science* curriculum at Codeup! 🏫
 
-# I'm currently studying in the ** Data Science ** curriculum at Codeup! 🏫
-
-🧠 I'm currently interested in learning more about:
+### 🧠 I'm interested in and learning more about:
 - Python 
 - SQL
 - Machine Learning
